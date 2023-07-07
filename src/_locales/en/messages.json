@@ -1,0 +1,10 @@
+{
+  "extName" : {
+    "message" : "mv3-parcel-webext-template",
+    "description" : "Extension name"
+  },
+  "extDescription" : {
+    "message" : "Chrome Extension template for manifest v3. With Vue 3",
+    "description" : "Extension description"
+  }
+}
